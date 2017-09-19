@@ -1,3 +1,3 @@
-sum_array <- function(a)
-	{sum(a)}
+sum_array <- function(a){
+	sum(a)}
 
